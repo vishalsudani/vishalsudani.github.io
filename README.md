@@ -1,5 +1,5 @@
 
-# Welcome to Vishal Sudani Technical and Work Informatiomn page!
+# Welcome to Vishal Sudani Technical and Work Information page!
 
 You will find all the information about  **Vishal Sudani** here. This page contains all the information about technical skills, educational information, work portfolio of Vishal Sudani. More you can find blog posts as well containing quality information related to new front-end technologies.
 
