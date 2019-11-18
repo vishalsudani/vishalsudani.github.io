@@ -9,5 +9,5 @@ You will find all the information about  **Vishal Sudani** here. This page conta
 - Technical skills of Vishal Sudani - Educational information
 - Work portfolio
 
-ails
+
 - Created by **Vishal Sudani** .
